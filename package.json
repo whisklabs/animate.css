@@ -1,15 +1,15 @@
 {
   "name": "animate.css",
-  "version": "3.2.6",
+  "version": "3.2.7",
   "repository": {
     "type": "git",
     "url": "https://github.com/daneden/animate.css.git"
   },
   "jspm": {
-    "main":"animate.css!",
-    "format":"global",
+    "main": "animate.css!",
+    "format": "global",
     "directories": {
-      "lib":"./"
+      "lib": "./"
     }
   },
   "devDependencies": {
@@ -22,5 +22,6 @@
   },
   "spm": {
     "main": "./animate.css"
-  }
+  },
+  "scripts": {}
 }
