@@ -1,6 +1,6 @@
 {
   "name": "animate.css",
-  "version": "3.2.5",  
+  "version": "3.2.5-WHISK.1",
   "repository": {
     "type": "git",
     "url": "https://github.com/daneden/animate.css.git"
@@ -11,7 +11,7 @@
     "directories": {
       "lib":"./"
     }
-  },  
+  },
   "devDependencies": {
     "grunt": "~0.4.1",
     "grunt-autoprefixer": "~0.4.0",
